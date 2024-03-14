@@ -1,1 +1,22 @@
+# Archivos de configuración de NetBeans
+nbproject/private/
+nbproject/project.properties
+nbproject/project.xml
+nbproject/genfiles.properties
+nbproject/build-impl.xml
+nbproject/configs/
+nbproject/nb-configuration.xml
 
+# Archivos de respaldo y caches de NetBeans
+nbproject/*.backup
+nbproject/*~*
+
+# Directorio de compilación de NetBeans
+build/
+
+# Archivos de NetBeans
+nbactions.xml
+build.xml
+
+# Otros archivos y directorios generados por NetBeans
+dist/
